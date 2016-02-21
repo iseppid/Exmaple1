@@ -1,0 +1,15 @@
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bin\Debug\ReverseMap\resources.pri
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bin\Debug\AppxManifest.xml
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bld\Debug\priconfig.xml
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bld\Debug\priconfig.xml.intermediate
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bld\Debug\layout.resfiles
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bld\Debug\layout.resfiles.intermediate
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bld\Debug\resources.resfiles
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bld\Debug\resources.resfiles.intermediate
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bld\Debug\pri.resfiles
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bld\Debug\pri.resfiles.intermediate
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bld\Debug\qualifiers.txt
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bld\Debug\ProjectArchitectures.txt
+C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bin\Debug\PharoahBirdy.build.appxrecipe

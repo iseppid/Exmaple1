@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SEP</Machine>
+    <WindowsUser>Giuseppe</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>91453bc6-d6ae-43fd-aa3a-0b8af639cb1d</PackageIdentityName>
+    <RegisteredManifestChecksum>2ECD31E16E06A4D198527F680D090F3653E6E65394D4BA3071FDFA4EE7098B94</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>91453bc6-d6ae-43fd-aa3a-0b8af639cb1d_1.0.0.0_neutral__0q0qdp84qs084</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>91453bc6-d6ae-43fd-aa3a-0b8af639cb1d_0q0qdp84qs084!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>91453bc6-d6ae-43fd-aa3a-0b8af639cb1d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Giuseppe</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-09T20:15:26.372</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2014-04-09T20:14:06.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\about.html">
+      <PackagePath>about.html</PackagePath>
+      <Modified>2013-11-01T20:56:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\support.html">
+      <PackagePath>support.html</PackagePath>
+      <Modified>2013-11-01T20:56:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\privacy.html">
+      <PackagePath>privacy.html</PackagePath>
+      <Modified>2013-11-01T20:56:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\c2runtime.js">
+      <PackagePath>c2runtime.js</PackagePath>
+      <Modified>2014-04-09T20:14:14.436</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\jquery-2.0.0.min.js">
+      <PackagePath>jquery-2.0.0.min.js</PackagePath>
+      <Modified>2013-09-03T17:31:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\player-sheet0.png">
+      <PackagePath>images\player-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:13:59.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\player-sheet1.png">
+      <PackagePath>images\player-sheet1.png</PackagePath>
+      <Modified>2014-04-09T20:13:59.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\bullet-sheet0.png">
+      <PackagePath>images\bullet-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:13:59.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\enemy-sheet0.png">
+      <PackagePath>images\enemy-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:13:59.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\enemy-sheet1.png">
+      <PackagePath>images\enemy-sheet1.png</PackagePath>
+      <Modified>2014-04-09T20:13:59.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\enemy-sheet2.png">
+      <PackagePath>images\enemy-sheet2.png</PackagePath>
+      <Modified>2014-04-09T20:13:59.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\explosion-sheet0.png">
+      <PackagePath>images\explosion-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:14:00.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\explosion-sheet1.png">
+      <PackagePath>images\explosion-sheet1.png</PackagePath>
+      <Modified>2014-04-09T20:13:59.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\enemyspawn-sheet0.png">
+      <PackagePath>images\enemyspawn-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:13:59.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\mainbackground.png">
+      <PackagePath>images\mainbackground.png</PackagePath>
+      <Modified>2014-04-09T20:14:06.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\playericon-sheet0.png">
+      <PackagePath>images\playericon-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:13:59.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\startbackground-sheet0.png">
+      <PackagePath>images\startbackground-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:14:01.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\endbackground-sheet0.png">
+      <PackagePath>images\endbackground-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:14:03.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\bglayer2-sheet0.png">
+      <PackagePath>images\bglayer2-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:14:06.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\sprite-sheet0.png">
+      <PackagePath>images\sprite-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:14:02.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\tiledbackground.png">
+      <PackagePath>images\tiledbackground.png</PackagePath>
+      <Modified>2014-04-09T20:14:05.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\bglayer3-sheet0.png">
+      <PackagePath>images\bglayer3-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:14:03.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\powerup-sheet0.png">
+      <PackagePath>images\powerup-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:14:03.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\powerup-sheet1.png">
+      <PackagePath>images\powerup-sheet1.png</PackagePath>
+      <Modified>2014-04-09T20:14:01.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\pausebutton-sheet0.png">
+      <PackagePath>images\pausebutton-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:14:04.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\pausebutton-sheet1.png">
+      <PackagePath>images\pausebutton-sheet1.png</PackagePath>
+      <Modified>2014-04-09T20:14:03.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\pausebutton-sheet2.png">
+      <PackagePath>images\pausebutton-sheet2.png</PackagePath>
+      <Modified>2014-04-09T20:14:05.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\sprite3-sheet0.png">
+      <PackagePath>images\sprite3-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:14:06.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\unpausetap-sheet0.png">
+      <PackagePath>images\unpausetap-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:14:03.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\sprite2-sheet0.png">
+      <PackagePath>images\sprite2-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:14:04.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\sprite4-sheet0.png">
+      <PackagePath>images\sprite4-sheet0.png</PackagePath>
+      <Modified>2014-04-09T20:14:04.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\icon-16.png">
+      <PackagePath>icon-16.png</PackagePath>
+      <Modified>2014-04-09T18:10:47.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\icon-32.png">
+      <PackagePath>icon-32.png</PackagePath>
+      <Modified>2014-04-09T18:10:47.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\icon-114.png">
+      <PackagePath>icon-114.png</PackagePath>
+      <Modified>2014-04-09T18:10:47.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\icon-128.png">
+      <PackagePath>icon-128.png</PackagePath>
+      <Modified>2014-04-09T18:10:47.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\icon-256.png">
+      <PackagePath>icon-256.png</PackagePath>
+      <Modified>2014-04-09T18:10:47.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\loading-logo.png">
+      <PackagePath>loading-logo.png</PackagePath>
+      <Modified>2014-04-09T18:10:47.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\app-logo.png">
+      <PackagePath>app-logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-20T05:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\app-smalllogo.png">
+      <PackagePath>app-smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-20T05:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\app-storelogo.png">
+      <PackagePath>app-storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-20T05:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\splashscreen.png">
+      <PackagePath>splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-20T05:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\explosion.m4a">
+      <PackagePath>media\explosion.m4a</PackagePath>
+      <Modified>2014-04-09T18:10:47.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\laserfire.m4a">
+      <PackagePath>media\laserfire.m4a</PackagePath>
+      <Modified>2014-04-09T18:10:47.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\205563__everheat__arrow.m4a">
+      <PackagePath>media\205563__everheat__arrow.m4a</PackagePath>
+      <Modified>2014-04-09T18:10:47.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\arrow impact.m4a">
+      <PackagePath>media\arrow impact.m4a</PackagePath>
+      <Modified>2014-04-09T18:10:47.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\arrow.m4a">
+      <PackagePath>media\arrow.m4a</PackagePath>
+      <Modified>2014-04-09T18:10:47.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\explosion7.m4a">
+      <PackagePath>media\explosion7.m4a</PackagePath>
+      <Modified>2014-04-09T18:10:47.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\powerup4.m4a">
+      <PackagePath>media\powerup4.m4a</PackagePath>
+      <Modified>2014-04-09T18:10:47.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\gamemusic.m4a">
+      <PackagePath>media\gamemusic.m4a</PackagePath>
+      <Modified>2014-04-09T18:10:47.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\menumusic.m4a">
+      <PackagePath>media\menumusic.m4a</PackagePath>
+      <Modified>2014-04-09T18:10:47.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\credits.txt">
+      <PackagePath>credits.txt</PackagePath>
+      <Modified>2014-04-09T18:10:47.436</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\license.txt">
+      <PackagePath>license.txt</PackagePath>
+      <Modified>2014-04-09T18:10:47.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\readme.txt">
+      <PackagePath>readme.txt</PackagePath>
+      <Modified>2014-04-09T18:10:47.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\WindowsStoreProxy.xml">
+      <PackagePath>WindowsStoreProxy.xml</PackagePath>
+      <Modified>2013-05-23T19:20:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-09T20:15:26.269</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

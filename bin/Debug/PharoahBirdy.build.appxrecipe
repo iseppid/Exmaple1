@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SEP</Machine>
+    <WindowsUser>Giuseppe</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>91453bc6-d6ae-43fd-aa3a-0b8af639cb1d</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\about.html">
+      <PackagePath>about.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\support.html">
+      <PackagePath>support.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\privacy.html">
+      <PackagePath>privacy.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\c2runtime.js">
+      <PackagePath>c2runtime.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\jquery-2.0.0.min.js">
+      <PackagePath>jquery-2.0.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\player-sheet0.png">
+      <PackagePath>images\player-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\player-sheet1.png">
+      <PackagePath>images\player-sheet1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\bullet-sheet0.png">
+      <PackagePath>images\bullet-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\enemy-sheet0.png">
+      <PackagePath>images\enemy-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\enemy-sheet1.png">
+      <PackagePath>images\enemy-sheet1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\enemy-sheet2.png">
+      <PackagePath>images\enemy-sheet2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\explosion-sheet0.png">
+      <PackagePath>images\explosion-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\explosion-sheet1.png">
+      <PackagePath>images\explosion-sheet1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\enemyspawn-sheet0.png">
+      <PackagePath>images\enemyspawn-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\mainbackground.png">
+      <PackagePath>images\mainbackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\playericon-sheet0.png">
+      <PackagePath>images\playericon-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\startbackground-sheet0.png">
+      <PackagePath>images\startbackground-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\endbackground-sheet0.png">
+      <PackagePath>images\endbackground-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\bglayer2-sheet0.png">
+      <PackagePath>images\bglayer2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\sprite-sheet0.png">
+      <PackagePath>images\sprite-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\tiledbackground.png">
+      <PackagePath>images\tiledbackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\bglayer3-sheet0.png">
+      <PackagePath>images\bglayer3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\powerup-sheet0.png">
+      <PackagePath>images\powerup-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\powerup-sheet1.png">
+      <PackagePath>images\powerup-sheet1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\pausebutton-sheet0.png">
+      <PackagePath>images\pausebutton-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\pausebutton-sheet1.png">
+      <PackagePath>images\pausebutton-sheet1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\pausebutton-sheet2.png">
+      <PackagePath>images\pausebutton-sheet2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\sprite3-sheet0.png">
+      <PackagePath>images\sprite3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\unpausetap-sheet0.png">
+      <PackagePath>images\unpausetap-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\sprite2-sheet0.png">
+      <PackagePath>images\sprite2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\images\sprite4-sheet0.png">
+      <PackagePath>images\sprite4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\icon-16.png">
+      <PackagePath>icon-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\icon-32.png">
+      <PackagePath>icon-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\icon-114.png">
+      <PackagePath>icon-114.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\icon-128.png">
+      <PackagePath>icon-128.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\icon-256.png">
+      <PackagePath>icon-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\loading-logo.png">
+      <PackagePath>loading-logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\app-logo.png">
+      <PackagePath>app-logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\app-smalllogo.png">
+      <PackagePath>app-smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\app-storelogo.png">
+      <PackagePath>app-storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\splashscreen.png">
+      <PackagePath>splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\explosion.m4a">
+      <PackagePath>media\explosion.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\laserfire.m4a">
+      <PackagePath>media\laserfire.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\205563__everheat__arrow.m4a">
+      <PackagePath>media\205563__everheat__arrow.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\arrow impact.m4a">
+      <PackagePath>media\arrow impact.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\arrow.m4a">
+      <PackagePath>media\arrow.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\explosion7.m4a">
+      <PackagePath>media\explosion7.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\powerup4.m4a">
+      <PackagePath>media\powerup4.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\gamemusic.m4a">
+      <PackagePath>media\gamemusic.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\media\menumusic.m4a">
+      <PackagePath>media\menumusic.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\credits.txt">
+      <PackagePath>credits.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\license.txt">
+      <PackagePath>license.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\readme.txt">
+      <PackagePath>readme.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\WindowsStoreProxy.xml">
+      <PackagePath>WindowsStoreProxy.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Giuseppe\Desktop\Pharoah Birdy FINAL\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
